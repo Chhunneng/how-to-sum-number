@@ -8,4 +8,4 @@ main()
 	scanf("%d",&b);
 	sum=a+b;
 	printf("The answer is %d",sum);
-}
+} 
